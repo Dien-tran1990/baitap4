@@ -1,0 +1,45 @@
+/* .tag2{
+    color: rgb(218, 255, 196);
+    background-color: rgb(255, 0, 0);
+}
+.tag2{
+    color: rgb(212, 196, 255);
+    background-color: rgb(111, 0, 255);
+}
+.color-red{
+    color: #4B8DFF;
+background-color: #D0BDAD;
+}
+.color-green{
+    color: #C098FF;
+
+}
+.color-blue{
+    color: #94A5D1;
+
+}
+.color-orange{
+    color: #FFA7B8;
+}
+ */
+
+.box{
+    border: 5px solid black;
+    width: 500px;
+    height: 500px;
+    font-size: 50px;
+    font-weight: 700;
+    color: #481de0;
+}
+
+
+.box{
+    /* background-image: url(../css/images/29958PICJadj02PyaaYnd_PIC2018.png_860.png); */
+    background-image: url(../css/images/800-ngan-hinh-anh-nail-dep-tuyet-voi-000.jpg);
+    /* background-size: 100% 100%; */
+    /* background-size: contain; */
+    /* background-repeat: repeat-y; */
+    background-size: 100px 100px;
+    background-repeat: repeat-x;
+    background-position: center top;
+}
